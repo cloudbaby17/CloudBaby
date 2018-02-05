@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+    <addon id="cloudbaby" name="cloudbaby" version="1.0.0" provider-name="CloudBaby">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="cloudbaby">
+            <info compressed="false">https://github.com/cloudbaby17/cloudbaby_repo/addons.xml</info>
+            <checksum>https://github.com/cloudbaby17/cloudbaby_repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/cloudbaby17/cloudbaby_repo/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Install all of ADDONS</summary>
+            <description>Download and Install Addons From Cloud Baby</description>
+            <platform>all</platform>
+    </extension>
+</addon>
+
+    <addon id="cloudbaby" name="cloudbaby" version="1.0.0" provider-name="CloudBaby">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="cloudbaby">
+            <info compressed="false">https://github.com/cloudbaby17/cloudbaby_repo/addons.xml</info>
+            <checksum>https://github.com/cloudbaby17/cloudbaby_repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/cloudbaby17/cloudbaby_repo/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Install all of ADDONS</summary>
+            <description>Download and Install Addons From Cloud Baby</description>
+            <platform>all</platform>
+    </extension>
+</addon>
+</addons>
